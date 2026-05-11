@@ -34,3 +34,4 @@ Este plugin ha sido desarrollado y es mantenido por **MiaCodeWEB**. Nos especial
 
 ---
 **Desarrollador:** Cristian Barboza | MiaCodeWEB
+🇪🇸 Español | 🇺🇸 [English](README-en.md) | 🇧🇷 [Português](README-pt.md)
